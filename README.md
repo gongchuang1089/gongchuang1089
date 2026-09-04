@@ -3,10 +3,17 @@
 <p align="center">
 <svg width="100%" height="130" xmlns="http://www.w3.org/2000/svg">
   <rect width="100%" height="130" fill="#080810"/>
-  <text x="50%" y="55" font-family="Segoe UI,sans-serif" font-size="54" fill="#ffffff" text-anchor="middle">👋 Hi there, I'm GongChuang</text>
-  <text x="50%" y="95" font-family="Segoe UI,sans-serif" font-size="22" fill="#cccccc" text-anchor="middle">Android & Windows Security Researcher</text>
+  <text x="50%" y="55" font-family="Segoe UI,sans-serif" font-size="54" fill="#ffffff" text-anchor="middle">
+    👋 Hi there, I'm GongChuang
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="4s" repeatCount="indefinite"/>
+  </text>
+  <text x="50%" y="95" font-family="Segoe UI,sans-serif" font-size="22" fill="#cccccc" text-anchor="middle">
+    Android & Windows Security Researcher
+    <animate attributeName="opacity" values="0.6;0.9;0.6" dur="4s" repeatCount="indefinite"/>
+  </text>
 </svg>
 </p>
+
 
 ### 🛡️ Android & Windows Security Researcher
 
