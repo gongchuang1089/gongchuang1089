@@ -1,17 +1,7 @@
 <div align="center">
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?
-type=waving
-&height=120
-&text=👋 Hi%20there,%20I'm%20GongChuang
-&fontSize=55
-&fontAlignY=45
-&color=080810
-&textColor=ffffff
-&animation=fadeIn
-&reversal=false
-" alt="GongChuang Header">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=F7F7F7&background=080810&width=800&lines=👋 Hi there, I'm GongChuang;Android & Windows Security Researcher" alt="Typing SVG" />
 </p>
 
 
