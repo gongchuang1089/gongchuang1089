@@ -62,24 +62,9 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&langs_count=6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" />
-</p>
-
----
-
 ## 📫 Contact Me
 
-- 📮 Email：`your-email@example.com`
-- 💬 Telegram / 微信：`@your-handle`
-- 📝 Blog：https://your-blog-url.com
+- 📮 Email：`gongchuang666@outlook.com`
 
 <br>
 
