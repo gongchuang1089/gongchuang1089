@@ -1,8 +1,9 @@
 <div align="center">
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=F7F7F7&background=080810&width=800&lines=👋 Hi there, I'm GongChuang;Android & Windows Security Researcher" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&text=👋%20Hi%20there,%20I'm%20GongChuang&desc=Android%20%26%20Windows%20Security%20Researcher&fontSize=55&descSize=22&fontAlignY=35&descAlignY=65&color=080810&textColor=ffffff&animation=fadeIn" alt="GongChuang Header">
 </p>
+
 
 
 ### 🛡️ Android & Windows Security Researcher
