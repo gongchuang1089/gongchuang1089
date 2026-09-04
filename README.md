@@ -1,6 +1,19 @@
 <div align="center">
 
-# 👋 Hi there, I'm GongChuang
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?
+type=waving
+&height=120
+&text=👋 Hi%20there,%20I'm%20GongChuang
+&fontSize=55
+&fontAlignY=45
+&color=080810
+&textColor=ffffff
+&animation=fadeIn
+&reversal=false
+" alt="GongChuang Header">
+</p>
+
 
 ### 🛡️ Android & Windows Security Researcher
 
