@@ -1,10 +1,12 @@
 <div align="center">
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2800&pause=1200&color=F7F7F7&background=080810&width=850&lines=👋 Hi there, I'm GongChuang;Android & Windows Security Researcher" alt="Typing effect" />
+<svg width="100%" height="130" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="130" fill="#080810"/>
+  <text x="50%" y="55" font-family="Segoe UI,sans-serif" font-size="54" fill="#ffffff" text-anchor="middle">👋 Hi there, I'm GongChuang</text>
+  <text x="50%" y="95" font-family="Segoe UI,sans-serif" font-size="22" fill="#cccccc" text-anchor="middle">Android & Windows Security Researcher</text>
+</svg>
 </p>
-
-
 
 ### 🛡️ Android & Windows Security Researcher
 
