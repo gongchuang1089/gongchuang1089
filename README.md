@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&text=👋%20Hi%20there,%20I'm%20GongChuang&desc=Android%20%26%20Windows%20Security%20Researcher&fontSize=55&descSize=22&fontAlignY=35&descAlignY=65&color=080810&textColor=ffffff&animation=fadeIn" alt="GongChuang Header">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2800&pause=1200&color=F7F7F7&background=080810&width=850&lines=👋 Hi there, I'm GongChuang;Android & Windows Security Researcher" alt="Typing effect" />
 </p>
 
 
