@@ -19,8 +19,10 @@
 <br>
 
 </div>
-## Github 详情
-![](https://raw.githubusercontent.com/Matriy330/Matriy330/487f28dd0c0ed9bd605243511d7acaf3262b728e/github-contribution-grid-snake.svg)
+<div align="center">
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=gongchuang1089&theme=github-compact&hide_border=true&area=true" />
+</div>
+
 ---
 
 ## 🧑‍💻 About Me
