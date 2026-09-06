@@ -18,10 +18,6 @@
 
 <br>
 
-</div>
-<div align="center">
-  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=gongchuang1089&theme=github-compact&hide_border=true&area=true" />
-</div>
 
 ---
 
