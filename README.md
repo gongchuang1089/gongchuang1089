@@ -19,6 +19,10 @@
 <br>
 
 </div>
+## Github Stats | Github 详情
+<div align="center">
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Matriy330&theme=github-compact&hide_border=true&area=true" />
+</div>
 
 ---
 
